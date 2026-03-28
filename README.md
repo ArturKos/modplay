@@ -1,3 +1,14 @@
-modplay
+# modplay
 
-Komponent do Borland Delphi umożliwiający urzycie biblioteki audio BASS.DLL która pozwala odtwarzać audio w formatach XM, IT, S3M, MOD, MTM, UMX, MP3/OGG. Obecnie producent zapewnia odpowiednie komonenty. Stworzony - wrzesień 2000.
+Borland Delphi audio component wrapping the BASS.DLL library. Supports playback of multiple audio formats: XM, IT, S3M, MOD, MTM, UMX, MP3, and OGG.
+
+## Features
+
+- Thin wrapper around BASS.DLL external functions
+- 3D audio positioning with Doppler effect support
+- Volume and frequency control with sliding effects
+- EAX environmental audio parameters
+- CD playback support
+- Registered as a reusable Delphi component
+
+Created in September 2000. Note: the BASS library vendor now provides official Delphi components.
