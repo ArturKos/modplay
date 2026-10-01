@@ -1,0 +1,14 @@
+# Delphi build artifacts
+*.dcu
+*.exe
+*.dll
+*.dsk
+*.local
+*.identcache
+*.ddp
+__history/
+__recovery/
+
+# OS / editor
+.DS_Store
+Thumbs.db
